@@ -1,6 +1,5 @@
 arr = []
 
-
 def rec_fib(n):
     if n == 0:
         arr.append(n)
